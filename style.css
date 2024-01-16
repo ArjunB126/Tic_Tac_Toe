@@ -40,3 +40,12 @@ body{
     color: #FF0800;
     
 }
+
+#reset-btn{
+    margin-top: 55px;
+    padding: 1rem;
+    font-size: 1.25rem;
+    color: white;
+    background-color: #55286F;
+ 
+}
