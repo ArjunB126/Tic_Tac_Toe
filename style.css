@@ -49,3 +49,8 @@ body{
     background-color: #55286F;
  
 }
+
+#reset-btn:hover{
+    background-color: yellowgreen;
+    border: 3px solid darkgreen;
+}
