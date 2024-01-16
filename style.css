@@ -11,3 +11,11 @@ body{
     background-color: #210B2C;
     text-align: center;
 }
+
+.container{
+    height: 70%vh;
+    margin-top: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
