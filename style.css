@@ -54,3 +54,10 @@ body{
     background-color: yellowgreen;
     border: 3px solid darkgreen;
 }
+
+#new-btn{
+    padding: 1rem;
+    font-size: 1.25rem;
+    color: white;
+    background-color: #55286F;
+}
