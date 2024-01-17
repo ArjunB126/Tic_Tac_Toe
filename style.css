@@ -61,3 +61,7 @@ body{
     color: white;
     background-color: #55286F;
 }
+#new-btn:hover{
+    background-color: yellowgreen;
+    border: 3px solid darkgreen;
+}
