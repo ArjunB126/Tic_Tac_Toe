@@ -84,3 +84,8 @@ body{
 .hide {
     display: none;
 }
+
+footer{
+    margin-top: 1rem;
+    color: white;
+}
