@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
 }
-
 h1{
     color: white ;
     margin-top: 15px;
@@ -11,7 +10,6 @@ body{
     background-color: #210B2C;
     text-align: center;
 }
-
 .container{
     height: 70%vh;
     margin-top: 10vh;
@@ -19,7 +17,6 @@ body{
     justify-content: center;
     align-items: center;
 }
-
 .game{
     height: 60vmin;
     width: 60vmin;
@@ -29,7 +26,6 @@ body{
     align-items: center;
     gap:1.5vmin;
 }
-
 .box{
     height: 18vmin;
     background-color: #FFF8F0;
@@ -40,7 +36,6 @@ body{
     color: #FF0800;
     
 }
-
 #reset-btn{
     margin-top: 55px;
     padding: 1rem;
@@ -49,12 +44,10 @@ body{
     background-color: #55286F;
  
 }
-
 #reset-btn:hover{
     background-color: yellowgreen;
     border: 3px solid darkgreen;
 }
-
 #new-btn{
     padding: 1rem;
     font-size: 1.25rem;
@@ -65,13 +58,11 @@ body{
     background-color: yellowgreen;
     border: 3px solid darkgreen;
 }
-
 #msg {
     color: #D8B4E2;
     font-size: 5vmin;
 }
-
-  .msg-container {
+.msg-container {
     height: 100vmin;
     display: flex;
     justify-content: center;
@@ -79,12 +70,9 @@ body{
     flex-direction: column;
     gap: 4rem;
 }
-
-  
 .hide {
     display: none;
 }
-
 footer{
     margin-top: 1rem;
     color: white;
