@@ -2,12 +2,17 @@ let boxes = document.querySelectorAll(".box");
 let resetBtn = document.querySelector("#reset-btn");
 let newGameBtn = document.querySelector("#new-btn");
 
+
 let msgContainer = document.querySelector(".msg-container");
 let msg = document.querySelector("#msg");
 
+// function to handle the click event on each box
 let turnO = true; //playerX, playerO
 let count = 0; //To Track Draw
 
+
+
+// Array Of Winning Patterns 
 const winPatterns = [
     [0, 1, 2],
     [0, 3, 6],
