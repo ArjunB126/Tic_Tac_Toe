@@ -65,3 +65,8 @@ body{
     background-color: yellowgreen;
     border: 3px solid darkgreen;
 }
+
+#msg {
+    color: #D8B4E2;
+    font-size: 5vmin;
+  }
