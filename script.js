@@ -58,13 +58,14 @@ const resetGame = () => {
   });
 
 
-
+// If game Draw Function for it 
   const gameDraw = () => {
     msg.innerText = `Game was a Draw.`;
     msgContainer.classList.remove("hide");
     disableBoxes();
 };
 
+// Once Clicked will not be able to click it again 
 const disableBoxes = () => {
     for (let box of boxes) {
       box.disabled = true;
@@ -86,5 +87,5 @@ const showWinner = (winner) => {
     msg.innerText = `Congratulations, Winner is ${winner}`;
     msgContainer.classList.remove("hide");
     disableBoxes();
-  };
-  
+};
+
