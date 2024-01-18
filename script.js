@@ -70,3 +70,14 @@ const disableBoxes = () => {
       box.disabled = true;
     }
 };
+
+
+const enableBoxes = () => 
+{
+    for (let box of boxes)
+     {
+      box.disabled = false;
+      
+     }
+};
+  
