@@ -46,7 +46,13 @@ const resetGame = () => {
         box.innerText = "X";
         turnO = true;
       }
-    
+      box.disabled = true;
+      count++;
+  
+      let isWinner = checkWinner();
+  
+      if (count === 9 && !isWinner) {
+        gameDraw();
       }
     });
   });
