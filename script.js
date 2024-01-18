@@ -61,5 +61,6 @@ const resetGame = () => {
 
   const gameDraw = () => {
     msg.innerText = `Game was a Draw.`;
-
+    msgContainer.classList.remove("hide");
+    disableBoxes();
 };
