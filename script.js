@@ -80,4 +80,10 @@ const enableBoxes = () =>
       box.innerText = "";
      }
 };
+
+	
+const showWinner = (winner) => {
+    msg.innerText = `Congratulations, Winner is ${winner}`;
+
+  };
   
