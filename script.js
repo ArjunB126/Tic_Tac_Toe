@@ -33,3 +33,20 @@ const resetGame = () => {
     enableBoxes();
     msgContainer.classList.add("hide");
   };
+
+
+  boxes.forEach((box) => {
+    box.addEventListener("click", () => {
+      if (turnO) {
+        //playerO
+        box.innerText = "O";
+        turnO = false;
+      } else {
+        //playerX
+        box.innerText = "X";
+        turnO = true;
+      }
+    
+      }
+    });
+  });
