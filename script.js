@@ -89,3 +89,9 @@ const showWinner = (winner) => {
     disableBoxes();
 };
 
+
+
+
+
+
+newGameBtn.addEventListener("click", resetGame);
