@@ -95,3 +95,4 @@ const showWinner = (winner) => {
 
 
 newGameBtn.addEventListener("click", resetGame);
+resetBtn.addEventListener("click", resetGame);
