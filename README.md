@@ -13,3 +13,9 @@ This is a simple implementation of the classic Tic Tac Toe game using HTML, CSS,
 3. Player take turns to click on an empty cell to mark it with their symbol.
 4. The  player Or Computer to get three of their symbols in a row (horizontally, vertically, or diagonally) wins.
 5. If the board is filled and not player nor a Computer has won, the game ends in a draw.
+
+## Installation
+
+1. Clone the repository to your local machine
+
+2. Open the `index.html` file in your web browser.
