@@ -6,3 +6,5 @@ This is a simple implementation of the classic Tic Tac Toe game using HTML, CSS,
 - **AI Opponent Mode:** Challenge yourself by playing against a computer-controlled opponent.
 - **Game Statistics:** Track and display the number of games played, wins, and draws.
 - **User-Friendly Interface:** The game provides a clean and intuitive interface for a seamless gaming experience.
+
+## How to Play
