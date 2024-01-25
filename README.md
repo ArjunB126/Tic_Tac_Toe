@@ -8,3 +8,6 @@ This is a simple implementation of the classic Tic Tac Toe game using HTML, CSS,
 - **User-Friendly Interface:** The game provides a clean and intuitive interface for a seamless gaming experience.
 
 ## How to Play
+1. Open the [Tic_Tac_Toe]() in your web browser.
+2. The game board consists of a 3x3 grid.
+3. Player take turns to click on an empty cell to mark it with their symbol.
