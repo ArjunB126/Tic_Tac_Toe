@@ -19,3 +19,10 @@ This is a simple implementation of the classic Tic Tac Toe game using HTML, CSS,
 1. Clone the repository to your local machine
 
 2. Open the `index.html` file in your web browser.
+
+
+## Technologies Used
+
+- HTML
+- CSS3
+- JavaScript
